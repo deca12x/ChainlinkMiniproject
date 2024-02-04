@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Chainlink Miniproject
+Giulio, Ilham, Falko
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+1) MongoDB hosted on cloud server
+2) Chainlink Functions checks our database API
+3) Based on API response, Chainlink Automation waits x time and then executes the following,
+4) Chainlink CCIP mints NFT in another chain
