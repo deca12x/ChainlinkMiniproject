@@ -10,6 +10,7 @@ Giulio, Ilham, Falko
 6) Chainlink Automation - starts running... once a day, checks the weather in NYC, and changes the image of the last 3 minted NFTs
 
 
+
 Chainlink Functions:
 https://www.youtube.com/watch?v=t5eVm4bTnzo&ab_channel=Chainlink
 
